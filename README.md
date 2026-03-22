@@ -22,7 +22,7 @@ A command-line interface (CLI) tool written in Python that losslessly finds and 
 Download the repository as a ZIP or clone it via Git, then navigate into the folder:
 
 ```bash
-git clone [https://github.com/your-username/pdf-watermark-remover.git](https://github.com/your-username/pdf-watermark-remover.git)
+git clone https://github.com/Swedish-Wiking/pdf-watermark-remover.git
 cd pdf-watermark-remover
 ```
 
